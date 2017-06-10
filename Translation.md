@@ -5,3 +5,7 @@ Preface 3
 That password is one that an idiot puts on their luggage.
 
 这句翻译得失去了原文的风趣与不羁。原意更接近于“只有白痴才会在行李箱上使用这种密码。”然而原文是不是也有问题，"an idiot" 对应了 "their"
+
+第一章 9
+Chapter One 9
+无效变量名 current balance 少一个字母e
