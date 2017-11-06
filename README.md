@@ -1,3 +1,5 @@
 # ABSWP
-Automate The Boring Stuff with Python  
-using python 3.3.2
+Automate the Boring Stuff with Python  
+using Python 3.5.4rc1
+
+P10 hello.py
