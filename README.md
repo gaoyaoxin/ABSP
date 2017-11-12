@@ -39,7 +39,7 @@ using Python 3.5.4rc1
 |P63|allMyCats1.py|
 |P64|allMyCats2.py|
 |P66|myPets.py|
-
+|P80|magic8Ball2.py|
 
 
 
