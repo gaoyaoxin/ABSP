@@ -39,14 +39,15 @@ using Python 3.5.4rc1
 |P63|allMyCats1.py|
 |P64|allMyCats2.py|
 |P66|myPets.py|
-|P80|magic8Ball2.py|
-
-
-
-
-
-
-
+|P70|magic8Ball2.py|
+|P76|passingReference.py|
+|P79|comma.py|
+|P79|grid.py|
+|P82|birthdays.py|
+|P85|characterCount.py|
+|P86|prettyCharacterCount.py|
+|P88|ticTacToe.py
+|P92|thingsBrought.py
 
 
 
