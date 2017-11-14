@@ -43,14 +43,17 @@ using Python 3.5.4rc1
 |P76|passingReference.py|
 |P79|comma.py|
 |P79|grid.py|
+|P79|comma2.py|undone
+|P79|grid2.py|undone
 |P82|birthdays.py|
 |P85|characterCount.py|
 |P86|prettyCharacterCount.py|
-|P88|ticTacToe.py
-|P92|thingsBrought.py
-
-
-
+|P88|ticTacToe.py|
+|P92|thingsBrought.py|
+|P94|inventory.py|
+|P94|addToInventory.py|undone
+|P97|catnapping.py|
+|P99|howAreYou.py|
 
 
 
