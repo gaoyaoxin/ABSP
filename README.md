@@ -59,7 +59,9 @@ using Python 3.5.4rc1
 |P106|pw.py|
 |P108|bulletPointAdder.py|
 |P110|lineFeedDeleter.py|
-
+|P111|printTableFunc.py|undone
+|P116|isPhoneNumber.py|
+|P131|phoneAndEmail.py|Chinese way undone
 
 
 
