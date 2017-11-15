@@ -54,10 +54,11 @@ using Python 3.5.4rc1
 |P94|addToInventory.py|undone
 |P97|catnapping.py|
 |P99|howAreYou.py|
-
-
-
-
+|P101|validateInput.py|
+|P104|picnicTable.py|
+|P106|pw.py|
+|P108|bulletPointAdder.py|
+|P110|lineFeedDeleter.py|
 
 
 
