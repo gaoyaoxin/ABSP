@@ -2,8 +2,8 @@
 Automate the Boring Stuff with Python  
 using Python 3.5.4rc1  
 
-|Page|.py|
-|-|-|
+|Page|.py|Notes
+|-|-|-|
 |P10|hello.py|
 |P26|vampire.py|
 |P26|vampire2.py|
@@ -60,9 +60,13 @@ using Python 3.5.4rc1
 |P108|bulletPointAdder.py|
 |P110|lineFeedDeleter.py|
 |P111|printTableFunc.py|undone
-|P116|isPhoneNumber.py|
-|P131|phoneAndEmail.py|Chinese way undone
-
+|P116|isPhoneNumber.py|with re way
+|P131|phoneAndEmail.py|with Chinese way
+|P135|digits3.py|
+|P135|nakamoto.py|
+|P135|aliceBob.py|
+|P136|strongPassword.py|
+|P136|reStrip.py|undone
 
 
 
