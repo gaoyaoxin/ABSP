@@ -67,7 +67,11 @@ using Python 3.5.4rc1
 |P135|aliceBob.py|
 |P136|strongPassword.py|
 |P136|reStrip.py|undone
-
+|P145|hello.txt|
+|P145|sonnet29.txt|
+|P147|mydata.db|
+|P148|myCats.py|
+|P149|randomQuizGenerator/randomQuizGenerator.py|
 
 
 
