@@ -72,8 +72,10 @@ using Python 3.5.4rc1
 |P147|mydata.db|
 |P148|myCats.py|
 |P149|randomQuizGenerator/randomQuizGenerator.py|
-
-
+|P153|mcb.pyw|
+|P156|extmcb.pyw|undone
+|P156|madLibs/madLibs.py|undone
+|P156|reAllTxts/reAllTxts.py|undone
 
 
 
