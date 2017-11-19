@@ -1,12 +1,14 @@
 #! python3
 # mcb.pyw - Saves and loads pieces of text to the clipboard.
-# Usage: py.exe mcb.pyw save <keyword> - Saves clipboard to keyword.
-#        py.exe mcb.pyw <keyword> - Loads keyword to clipboard.
-#        py.exe mcb.pyw list - Loads all keywords to clipboard.
+# Usage: py.exe extmcb.pyw save <keyword> ------ Saves clipboard to keyword.
+#        py.exe extmcb.pyw <keyword> ----------- Loads keyword to clipboard.
+#        py.exe extmcb.pyw list ----------- Loads all keywords to clipboard.
+#        py.exe extmcb.pyw delete <keyword> - Delete keyword from clipboard.
+#        py.exe extmcb.pyw delete ------ Delete all keywords from clipboard.
 
 import shelve, pyperclip, sys
 
-mcbShelf = shelve.open('mcb')
+mcbShelf = shelve.open('extmcb')
 
 # Save clipboard content.
 if len(sys.argv) == 3 and sys.argv[1].lower() == 'save':

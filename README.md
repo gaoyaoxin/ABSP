@@ -74,11 +74,13 @@ using Python 3.5.4rc1
 |P149|randomQuizGenerator/randomQuizGenerator.py|
 |P153|mcb.pyw|
 |P156|extmcb.pyw|undone
-|P156|madLibs/madLibs.py|undone
+|P156|madLibs/madLibs.py|undone. Works with sample.txt Outputs sample_result.txt
 |P156|reAllTxts/reAllTxts.py|undone
-
-
-
+|P161|os.Walk.py|
+|P163|zipfile/example.zip|
+## Third Party Model installed
+pip3 install pyperclip
+pip3 install send2trash
 
 
 
