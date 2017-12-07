@@ -78,9 +78,17 @@ using Python 3.5.4rc1
 |P156|reAllTxts/reAllTxts.py|undone
 |P161|os.Walk.py|
 |P163|zipfile/example.zip|
+|P165|renameDates.py|
+|P168|backupToZip.py|
+|P171|CopyCertainType.py|
+|P172|delBigFiles.py|
+|P172|missingNum1.py|
+|P172|missingNum2.py|
 ## Third Party Model installed
 pip3 install pyperclip
 pip3 install send2trash
+## push
+git add . && git commit -m "update" && git push origin master
 
 
 
@@ -88,4 +96,5 @@ pip3 install send2trash
 
 
 
-
+\automate_online-materials  
+downloaded from: http://www.epubit.com.cn/file/resource/251240121063028172175199212237008125124174189031
