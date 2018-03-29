@@ -1,0 +1,6 @@
+﻿P221 12.3.4 get_column_letter 没有
+>>> from openpyxl.cell import get_column_letter
+Traceback (most recent call last):
+  File "<pyshell#13>", line 1, in <module>
+    from openpyxl.cell import get_column_letter
+ImportError: cannot import name 'get_column_letter'

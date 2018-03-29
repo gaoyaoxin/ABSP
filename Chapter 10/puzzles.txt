@@ -1,0 +1,14 @@
+P178 10.3.1 没有出现出错信息
+P179 10.4.1 Start of factorial(5%)，End of factorial(5%) 多一个百分号，且两次结果均为1
+ =========
+ 2018-03-14 15:25:47,836 - DEBUG - Start of program
+ 2018-03-14 15:25:47,852 - DEBUG - Start of factorial(5%)
+ 2018-03-14 15:25:47,852 - DEBUG - i is 1, total is 1
+ 2018-03-14 15:25:47,867 - DEBUG - i is 2, total is 1
+ 2018-03-14 15:25:47,867 - DEBUG - i is 3, total is 1
+ 2018-03-14 15:25:47,883 - DEBUG - i is 4, total is 1
+ 2018-03-14 15:25:47,883 - DEBUG - i is 5, total is 1
+ 2018-03-14 15:25:47,898 - DEBUG - End of factorial(5%)
+1
+ 2018-03-14 15:25:47,914 - DEBUG - End of program
+>>> 

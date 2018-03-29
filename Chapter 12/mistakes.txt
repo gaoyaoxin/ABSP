@@ -1,0 +1,5 @@
+﻿2016年7月第1版
+2016年12北京第5次印刷
+
+P221, line 40
+column_index_string() 应为 column_index_from_string()
