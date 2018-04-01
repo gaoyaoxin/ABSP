@@ -1,6 +1,10 @@
 # ABSP
 Automate the Boring Stuff with Python  
-using Python 3.5.4rc1  
+
+2016年7月第1版
+
+2016年12北京第5次印刷
+  
 
 |Page|.py|Notes
 |-|-|-|
