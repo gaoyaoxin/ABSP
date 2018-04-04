@@ -1,5 +1,8 @@
 ﻿2016年7月第1版
 2016年12北京第5次印刷
 
-P221, line 40
-column_index_string() 应为 column_index_from_string()
+【已提交】P221, line 14
+倒数第四行column_index_string() 应为 column_index_from_string()【英文版错误】
+
+P231
+sheet.max_row + 1【英文版错误】
