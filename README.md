@@ -5,6 +5,14 @@ Automate the Boring Stuff with Python
 
 2016年12北京第5次印刷
   
+```
+import os
+```
+
+```
+os.chdir('H:\\ABSP\\Chapter ')
+```
+
 
 |Page|.py|Notes
 |-|-|-|
