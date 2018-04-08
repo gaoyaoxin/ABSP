@@ -4,5 +4,12 @@
 【已提交】P221, line 14
 倒数第四行column_index_string() 应为 column_index_from_string()【英文版错误】
 
+P224
+最后一行state应为小写【已有人提交】
+
+P225
+倒数第5行state应为小写
+
+
 P231
 sheet.max_row + 1【英文版错误】
